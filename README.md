@@ -1,2 +1,7 @@
-# react-setting
-React 개발환경 세팅
+# React Setting
+
+## 개발환경
+ - Webstorm
+ - Node.js
+ - Node Packages
+    - create-react-app
