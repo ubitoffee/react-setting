@@ -14,3 +14,8 @@
         ```
         npm install -g create-react-app
         ```
+ 4. Webstorm을 이용하여 Create React Project 
+    - react-router 설치
+        ```
+        npm install react-router@3 --save
+        ```
